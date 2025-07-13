@@ -6,3 +6,7 @@ data = pl.read_csv(
 )
 
 print(data)
+
+
+#ini data kembaran pandas 
+#sesama keluarga beruang
